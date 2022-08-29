@@ -8,6 +8,13 @@ body:
       Thanks for taking the time to make a proposal for Interop 2023!
 
       Please see the [Interop 2023 README](https://github.com/web-platform-tests/interop/blob/main/2023/README.md) for advice on how to make a proposal and what to expect from the process.
+- type: dropdown
+  attributes:
+    label: Proposal type
+    description: What kind of proposal is this?
+    options:
+      - Focus Area
+      - Investigation Effort
 - type: textarea
   attributes:
     label: Description
